@@ -5,6 +5,7 @@ theme = "hugo-theme-monochrome"
 
 [params]
 author = "Hoshino Lina"
+enable_toc = false
 
 [markup.goldmark.renderer]
 unsafe= true
