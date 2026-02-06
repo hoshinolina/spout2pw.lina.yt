@@ -15,6 +15,8 @@ keywords:
 - proton
 - steam
 - pipewire
+- obs-pwvideo
+- spout2pw
 ---
 
 # Spout2PW: Spout2 on Linux bridge
