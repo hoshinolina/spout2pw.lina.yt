@@ -25,7 +25,7 @@ Streaming on Linux, but tired of green screens and window capture? Spout2PW make
 
 No backgrounds, no title bars, no UI, no transparency issues.
 
-Works with VTube Studio, VRChat, VSeeFace, and [more](https://github.com/hoshinolina/spout2pw/wiki#app-specific-tips)!
+Works with VTube Studio, VNyan, VRChat, VSeeFace, and [more](https://github.com/hoshinolina/spout2pw/wiki#app-specific-tips)!
 
 
 {{< icon-group gap="12px" style="justify-content: center;">}}
