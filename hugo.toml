@@ -1,0 +1,16 @@
+baseURL = 'https://spout2pw.lina.yt/'
+languageCode = 'en-us'
+title = 'Spout2PW & OBS-PWVideo'
+theme = "hugo-theme-monochrome"
+
+[params]
+author = "Hoshino Lina"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
+
